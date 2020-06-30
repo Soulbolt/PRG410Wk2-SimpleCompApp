@@ -1,0 +1,4 @@
+﻿  PRG410_Wk2_SimpleCompApp.cpp
+C:\Users\Cesar\source\repos\PRG410_Wk2_SimpleCompApp\PRG410_Wk2_SimpleCompApp\PRG410_Wk2_SimpleCompApp.cpp(56,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\Cesar\source\repos\PRG410_Wk2_SimpleCompApp\PRG410_Wk2_SimpleCompApp\PRG410_Wk2_SimpleCompApp.cpp(58,18): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  PRG410_Wk2_SimpleCompApp.vcxproj -> C:\Users\Cesar\source\repos\PRG410_Wk2_SimpleCompApp\Debug\PRG410_Wk2_SimpleCompApp.exe
